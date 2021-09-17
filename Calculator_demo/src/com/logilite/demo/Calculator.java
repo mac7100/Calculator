@@ -44,7 +44,7 @@ public class Calculator {
 	        break;
 
 	      default:
-	        System.out.println("ERROR! Invalid operator! Please Enter valid operator");
+	        System.out.println("invalid operator");
 	        break;
 	    }
 
