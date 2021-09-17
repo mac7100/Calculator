@@ -27,8 +27,6 @@ public class Calculator {
 
 	      // performs addition between numbers
 	      case '+':
-	        result = number1 + number2;
-	        System.out.println(number1 + " + " + number2 + " = " + result);
 	        break;
 
 	      // performs subtraction between numbers
@@ -40,10 +38,10 @@ public class Calculator {
 	      // performs multiplication between numbers
 	      case '*':
 	        result = number1 * number2;
-	        System.out.println(number1 + " * " + number2 + " = " + result);
+	        System.out.println(number1 + " - " + number2 + " = " + result);
 	        break;
 
-
+	     // performs multiplication between numbers
 	      default:
 	        System.out.println("tesing work");
 	        break;
