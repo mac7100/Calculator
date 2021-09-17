@@ -50,7 +50,7 @@ public class Calculator {
 	        break;
 
 	      default:
-	        System.out.println("Invalid operator!");
+	        System.out.println("ERROR! Invalid operator! Please Enter valid operator");
 	        break;
 	    }
 
